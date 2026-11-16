@@ -17,14 +17,21 @@ This repository contains the code and experiments for measuring isotropy in the 
 - the paper is currently **in press** ([ERAMIA-RS 2026](https://sol.sbc.org.br/index.php/eramia-rs)).
 
 ```bibtex
-@inproceedings{madeira2026isotropy,
-  title={Evaluating Isotropy in Modern Masked Language Models},
-  author={Madeira, Caio and Griebler, Dalvan Jair},
-  booktitle={Anais da Escola Regional de Aprendizado de M{\'a}quina e Intelig{\^e}ncia Artificial do Rio Grande do Sul},
-  pages={},
-  year={in press},
-  organization={SBC}
+@inproceedings{eramiars,
+ author = {Caio Madeira and Dalvan Griebler},
+ title = { Evaluating Isotropy in Modern Masked Language Models},
+ booktitle = {Anais da II Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul},
+ location = {Porto Alegre/RS},
+ year = {2026},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {352--355},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/eramiars.2026.35574},
+ url = {https://sol.sbc.org.br/index.php/eramiars/article/view/47406}
 }
+
 ```
 
 ## Project Structure
